@@ -17,7 +17,6 @@ const NewsLetter = () => {
                 </div>
             </div>
         </div>
-        <hr  className='p-3 w-[400px]'/>
     </div>
   )
 }

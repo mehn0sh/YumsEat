@@ -11,7 +11,7 @@ import './index.css'
 
 function App() {
   return (
-    <>
+    <div className="overflow-x-hidden">
       <TopNav />
       <Featured/>
       <Delivery/>
@@ -20,7 +20,7 @@ function App() {
       <Categories/>
       <NewsLetter/>
       <Footer/>
-    </>
+    </div>
   );
 }
 
